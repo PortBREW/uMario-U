@@ -1,0 +1,11 @@
+# Build output
+build/
+
+# Packaged SD-card layouts and zips produced by tools/make_dist.sh
+dist/
+
+# Local logs / scratch files
+*.log
+
+# Visual Studio per-user settings
+*.vcxproj.user
